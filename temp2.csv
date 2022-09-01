@@ -1,0 +1,700 @@
+Latitude,Longitude,Elevation,Stream Bed Material,Lithology
+"27° 00' 07.7""","76°15' 33.6""",344,"St,C",Granite gneiss
+"27° 00' 17.1""","76°15' 54.2""",341,"St,C",Not exposed
+"27° 00' 44.1""","76°15' 31.2""",339,"St,Sd",Not exposed
+"27° 00' 52.2""","76°16' 07.1""",343,Sd,"Granite gneiss,metabasics intruded by Qtz vein"
+"27° 00' 30.0""","76°16' 14.7""",336,"St,C",Malachite bearing ferr. Quartzite
+"27° 00' 27.9""","76°17' 01.5""",325,"St,",Not exposed(granite gneiss)
+"27° 01' 04.2""","76°16' 19.8""",343,"Sd,St","Ferruginous quartzite with qtz vein, amphibolite"
+"27° 00' 56.4""","76°17' 07.2""",333,Sd,Amphibolite(metabasics)
+"27° 00' 17.0""","76°17' 32.8""",327,Sd,Granite gneiss
+"27° 00' 31.8""","76°18' 26.0""",329,Sd,Not exposed
+"27° 00' 46.5""","76°17' 55.3""",328,Sd,Granite gneiss
+"27° 00' 41.5""","76°18' 21.2""",334,Sd,Not exposed
+"27° 00' 13.4""","76°18' 49.6""",311,Sd,Not exposed
+"27° 00' 08.4""","76°19' 22.1""",322,Sd,Not exposed
+"27° 00' 33.8""","76°18' 43.8""",325,Sd,Not exposed
+"27° 00' 46.7""","76°19' 49.6""",328,Sd,Not exposed
+"27° 00' 10.9""","76°19' 55.0""",341,Sd,Not exposed
+"27° 00' 22.9""","76°20' 40.0""",326,St,Not exposed
+"27° 00' 43.9""","76°20' 06.3""",325,Sd,Not exposed
+"27° 00' 41.2""","76°20' 42.4""",333,St,Not exposed
+"27° 00' 10.2""","76°21' 06.4""",329,sd,Not exposed
+"27° 00' 02.4""","76°21' 44.8""",325,Sd,Not exposed
+"27° 00' 38.0""","76°21' 14.3""",332,"Sd,st",Not exposed
+"27° 00' 59.9""","76°22' 16.6""",316,Sd,Not exposed
+"27° 00' 02.6""","76°22' 31.4""",319,Sd,Not exposed
+"27° 00' 08.7""","76°22' 59.3""",321,"Sd,st",Not exposed
+"27° 00' 56.0""","76°22' 41.1""",322,Sd,Not exposed
+"27° 01' 03.9""","76°23' 22.7""",323,"Gr,Sd",Quartzite
+"27° 00' 12.9""","76°23' 33.0""",324,Sd,Quartzite hills are exposed around area
+"27° 00' 08.0""","76°24' 24.6""",316,Sd,Quartzite
+"27° 00' 36.6""","76°24' 04.8""",330,Sd,Quartzite hills are exposed around area
+"27° 00' 34.1""","76°24' 21.4""",316,Gr,Ferruginous quartzite
+"27° 00' 19.4""","76°24' 56.6""",307,Gr,Quartzite and amphibolite
+"27° 00' 18.9""","76°25' 22.3""",308,Sd,Quartzite in adjacent cell
+"27° 00' 45.7""","76°25' 10.6""",306,Gr,Quartzite
+"27° 00' 56.0""","76°25' 56.1""",297,Sd,Quartzite
+"27° 00' 20.5""","76°26' 04.3""",294,Sd,Not exposed
+"27° 00' 18.4""","76°27' 04.6""",303,Sd,Alluvium(No rock type exposed)
+"27° 00' 53.4""","76°26' 18.6""",310,Gr,Quartzite
+"27° 00' 59.9""","76°26' 40.5""",295,"Gr,Sd",Quartzite and quartz-biotite schist
+"27° 00' 03.2""","76°27' 24.9""",303,Sd,Alluvium(No rock type exposed)
+"27° 00' 31.6""","76°28' 03.7""",299,Sd,Not exposed
+"27° 00' 45.5""","76°27' 37.5""",296,"Sd,St",Not exposed
+"27° 00' 57.1""","76°27' 58.2""",285,Sd,Not exposed
+"27° 00' 04.1""","76°28' 50.3""",294,Sd,Alluvium(No rock type exposed)
+"27° 00' 07.4""","76°29' 14.6""",300,Sd,Alluvium(No rock type exposed)
+"27° 00' 59.4""","76°28' 33.5""",293,Sd,Alluvium(No rock type exposed)
+"27° 00' 39.6""","76°29' 16.5""",296,Sd,Alluvium(No rock type exposed)
+"27° 00' 01.5""","76°29' 46.4""",307,Sd,Alluvium(No rock type exposed)
+"27° 00' 35.8""","76°29' 46.0""",292,Sd,Alluvium(No rock type exposed)
+"27° 01' 22.5""","76°15' 29.0""",339,"St,C",Not exposed
+"27° 01' 15.8""","76°15' 48.4""",326,St,Granite gneiss
+"27° 01' 45.2""","76°15' 27.2""",341,C,Not Exposed
+"27° 01' 48.8""","76°15' 43.2""",329,"GR,Sd",Not exposed
+"27° 01' 16.0""","76°16' 14.2""",344,"St,Sd",Weathered gneiss intruded by amphibolite
+"27° 01' 20.4""","76°17' 04.5""",335,Sd,Granite gnreiss with metabasics
+"27° 01' 42.9""","76°16' 28.8""",328,St,Granite gneiss
+"27° 01' 43.1""","76°17' 06.2""",337,Sd,Granite gneiss
+"27° 01' 31.7""","76°18' 02.1""",331,Sd,Not exposed
+"27° 01' 14.4""","76°18' 25.4""",333,Sd,Not exposed
+"27° 02' 07.7""","76°17' 46.0""",315,Sd,Not exposed
+"27° 01' 41.7""","76°18' 06.4""",324,Sd,Not exposed
+"27° 01' 18.8""","76°18' 57.0""",330,Sd,Not exposed
+"27° 01' 29.2""","76°19' 20.6""",327,"Sd,St",Not esposed
+"27° 02' 02.9""","76°18' 45.1""",324,"G,Sd",Granite gneiss exposed in the sampling spot
+"27° 01' 58.7""","76°19' 22.0""",325,Sd,Not exposed (gneiss?)
+"27° 01' 14.0""","76°20' 09.5""",324,"Sd,St",Not exposed
+"27° 01' 08.7""","76°20' 37.5""",325,"Sd,St",Not exposed
+"27° 01' 42.8""","76°20' 03.4""",317,Sd,Not exposed
+"27° 01' 39.6""","76°20' 31.6""",317,Sd,Not exposed
+"27° 01' 11.4""","76°21' 37.8""",314,Sd,Not exposed
+"27° 01' 33.9""","76°22' 04.7""",316,"Sd,st",Not exposed
+"27° 02' 09.2""","76°21' 41.2""",329,Sd,Not exposed
+"27° 02' 07.8""","76°21' 50.0""",321,"Sd,St",Not exposed
+"27° 01' 37.2""","76°22' 29.5""",320,St,Not exposed
+"27° 01' 26.2""","76°22' 59.3""",318,Sd,Quartzite boulders
+"27° 02' 02.6""","76°22' 54.1""",324,"Sd,St",Quartzite
+"27° 02' 02.0""","76°23' 00.1""",327,Gr,Quartzite
+"27° 01' 20.3""","76°24' 06.5""",320,"Gr,Sd",Quartzite
+"27° 01' 12.4""","76°24' 38.8""",312,"Gr,Sd",Quartzite
+"27° 01' 58.3""","76°23' 56.5""",315,"Gr,Sd",Quartzite
+"27° 01' 43.7""","76°24' 10.9""",306,"Gr,Sd",Quartzite
+"27° 01' 13.1""","76°24' 49.4""",298,St,Not exposed
+"27° 01' 34.2""","76°25' 22.1""",298,St,Not exposed
+"27° 01' 41.2""","76°24' 50.8""",300,Sd,Quartzite in nearby cell
+"27° 02' 03.8""","76°25' 34.6""",309,Sd,Not exposed
+"27° 01' 19.5""","76°26' 24.5""",293,Gr,Quartzite hill
+"27° 01' 15.0""","76°26' 41.1""",308,Gr,Quartzite and metabasics
+"27° 01' 39.1""","76°26' 32.1""",298,Sd,Not exposed
+"27° 01' 43.8""","76°27' 09.3""",327,Sd,Not exposed
+"27° 01' 11.1""","76°27' 20.1""",293,Sd,Not exposed
+"27° 01' 33.1""","76°28' 13.4""",291,"Sd,st",Not exposed
+"27° 01' 57.8""","76°27' 35.1""",312,"Sd,",Not exposed
+"27° 01' 58.2""","76°27' 52.8""",281,Sd,Not exposed
+"27° 01' 09.9""","76°28' 40.3""",289,Sd,Not exposed
+"27° 01' 23.7""","76°29' 07.8""",277,Sd,Not exposed
+"27° 01' 58.1""","76°28' 36.7""",291,Gr,Quartzite and quartz vein
+"27° 01' 39.6""","76°29' 06.5""",285,Sd,Not exposed
+"27° 01' 13.5""","76°29' 43.4""",301,Sd,Not exposed
+"27° 01' 49.2""","76°29' 51.2""",302,Sd,Not exposed
+"27° 02' 18.7""","76°15' 22.5""",333,Sd,Not exposed
+"27° 02' 20.5""","76°15' 44.8""",336,"St,C",Granite intruded by quartz vein
+"27° 02' 46.5""","76°15' 24.6""",331,St,Not exposed (Granite gneiss)
+"27° 02' 49.2""","76°16' 03.6""",345,Sd,Gneiss with amphibolite
+"27° 02' 11.8""","76°16' 18.2""",327,"Sd,St",Gneiss
+"27° 02' 19.5""","76°16' 56.6""",338,Sd,Not exposed
+"27° 02' 49.6""","76°16' 15.1""",343,Sd,Gneiss with amphibolite
+"27° 03' 06.4""","76°17' 20.1""",337,St,Quartzite and amphibolite
+"27° 02' 19.1""","76°18' 02.6""",329,Sd,Qtz Biotite gneiss
+"27° 02' 12.4""","76°18' 22.2""",318,"G,Sd.",Granite gneiss exposed in main nala bed
+"27° 02' 51.4""","76°17' 38.0""",334,"Sd,St.",Granite gneiss exposed in nala section
+"27° 02' 49.2""","76°18' 13.9""",333,St,Malachite bearing rock dump
+"27° 02' 21.1""","76°18' 43.4""",322,Sd,Not exposed
+"27° 02' 29.0""","76°19' 33.0""",321,Sd,Not exposed
+"27° 02' 45.4""","76°18' 54.8""",321,"St,C",Not exposed
+"27° 02' 51.4""","76°19' 48.6""",313,"St,C",Not exposed
+"27° 02' 30.2""","76°19' 59.9""",324,Sd,Not exposed
+"27° 02' 27.2""","76°20' 30.1""",323,St,Not exposed
+"27° 02' 55.8""","76° 20' 00.2""",307,C,"Not exposed,thick sand cover"
+"27° 03' 14.9""","76°20' 45.3""",318,"Sd,St","Not exposed,Kanker"
+"27° 02' 18.4""","76°21' 20.0""",330,"Sd,",Not exposed
+"27° 02' 25.9""","76°21' 43.8""",318,"Sd,St",Not exposed
+"27° 03' 11.2""","76°21' 18.3""",320,"Sd,St",Not exposed
+"27° 03' 12.5""","76°21' 55.3""",325,Sd,Not exposed
+"27° 02' 37.5""","76°22' 42.4""",346,Gr,Ferruginous quartzite
+"27° 02' 22.8""","76°22' 59.5""",342,Gr,Quartzite
+"27° 03' 01.2""","76°22' 44.2""",334,Gr,Quartzite
+"27° 03' 13.0""","76°23' 04.4""",370,Gr,Quartzite
+"27° 02' 27.6""","76°23' 49.5""",307,"Gr,Sd",Quartzite
+"27° 02' 20.6""","76°24' 28.7""",324,Sd,Not exposed (Quartzite nearby)
+"27° 03' 11.2""","76°24' 02.1""",314,Gr,Quartzite
+"27° 03' 12.7""","76°24' 10.0""",307,Sd,Not exposed
+"27° 02' 39.2""","76°25' 21.8""",302,Sd,Thick alluvium (Not exposed)
+"27° 02' 28.0""","76°25' 29.2""",306,Sd,Thick alluvium (Not exposed)
+"27° 02' 59.0""","76°24' 58.5""",291,Sd,Not exposed
+"27° 02' 58.1""","76°25' 48.3""",280,Sd,Not exposed
+"27° 02' 43.1""","76°25' 59.7""",278,Sd,Not exposed
+"27° 02' 35.1""","76°24' 58.0""",285,Sd,Not exposed
+"27° 03' 05.0""","76°26' 05.2""",281,Sd,Not exposed
+"27° 02' 54.3""","76°26' 54.0""",282,Sd,Not exposed
+"27° 02' 22.6""","76°27' 41.1""",287,Sd,Not exposed
+"27° 02' 26.7""","76°28' 07.5""",275,Sd,Not exposed
+"27° 02' 45.1""","76°27' 15.7""",286,Sd,Not exposed
+"27° 02' 45.1""","76°28' 01.3""",289,Sd,Not exposed
+"27° 02' 30.3""","76°28' 27.9""",290,Sd,Not exposed
+"27° 02' 13.1""","76°29' 15.2""",292,Sd,Quartz veins and quartzite
+"27° 03' 03.4""","76°28' 32.4""",299,Sd,Not exposed
+"27° 02' 45.8""","76°29' 26.2""",297,Sd,Not exposed
+"27° 02' 15.3""","76°29' 48.0""",291,Sd,"Sericite schist,impure marble,quartzite"
+"27° 02' 46.1""","76°29' 47.4""",297,Sd,"Sericite schist,impure marble,quartzite"
+"27° 03' 35.9""","76°15' 27.7""",344,Sd,Gneiss!(not exposed)
+"27° 03' 22.9""","76°15' 56.6""",342,"G,Sd",Gneiss with amphibolite
+"27° 03' 53.8""","76°15' 24.9""",347,"Sd,St",Not exposed
+"27° 03' 55.0""","76°15' 59.7""",361,"Gd,Sd",Boulders of quartzite
+"27° 03' 17.97""","76°16' 29.5""",347,"G,Sd",Quartzite boulders and amphibolite
+"27° 03' 22.5""","76°17' 03.3""",342,"G,Sd",Not exposed(Gneiss)
+"27° 04' 06.7""","76°16' 14.2""",385,"Gd,Sd",Ferruginous quartzite
+"27° 03' 54.2""","76°17' 23.8""",347,"Gr,Sd",Quartzite
+"27° 03' 18.4""","76°17' 41.4""",342,Sd,Gneiss (?)
+"27° 03' 40.7""","76°18' 18.3""",326,"Gr,Sd",Granite gneiss
+"27° 04' 08.2""","76°18' 03.7""",338,"Gr,",Boulders of quartzite
+"27° 03' 56.4""","76°18' 23.0""",331,"Sd,St",Not exposed (Granite)
+"27° 03' 18.8""","76°18' 51.6""",326,St,Not exposed
+"27° 03' 22.2""","76°19' 32.4""",324,St,Not exposed
+"27° 03' 54.2""","76°18' 44.5""",328,St,Not exposed
+"27° 04' 06.5""","76°19' 40.4""",326,St,Not exposed
+"27° 03' 20.5""","76°20' 28.2""",319,Sd,Not exposed
+"27° 03' 26.3""","76°20' 39.7""",322,Sd,Not exposed
+"27° 03' 49.8""","76°20' 09.8""",330,St,Granite gneiss
+"27° 03' 54.0""","76°20' 33.8""",322,"Sd,St",Granite gneiss
+"27° 03' 35.4""","76°21' 23.4""",319,Sd,Kanker
+"27° 03' 37.6""","76°21' 43.1""",325,"Sd,St",Kanker
+"27° 04' 17.9""","76°21' 30.2""",320,Sd,Not exposed
+"27° 04' 10.5""","76°22' 05.9""",318,Sd,Not exposed
+"27° 03' 24.4""","76°22' 30.2""",330,"Gr,Sd",Quartzite
+"27° 03' 17.1""","76°23' 02.8""",375,Gr,Quartzite
+"27° 04' 00.2""","76°22' 30.3""",321,Sd,Not exposed
+"27° 04' 19.0""","76°23' 17.8""",325,Gr,Quartzite
+"27° 03' 17.5""","76°23' 57.0""",302,Sd,Quartzite
+"27° 03' 24.1""","76°24' 18.8""",296,Sd,Not exposed
+"27° 04' 17.3""","76°23' 33.1""",339,Gr,Micaceous quartzite(?)
+"27° 04' 17.9""","76°24' 24.1""",286,Sd,Not exposed
+"27° 03' 47.6""","76°24' 57.1""",290,Sd,Not exposed
+"27° 03' 43.0""","76°25' 56.1""",289,Sd,Not exposed
+"27° 04' 10.5""","76°24' 49.1""",288,Sd,Not exposed
+"27° 03' 53.1""","76°25' 54.2""",292,Sd,Not exposed
+"27° 03' 42.6""","76°26' 21.0""",295,Sd,Not exposed
+"27° 03' 35.1""","76°27' 01.3""",333,"Gr,Sd",Quartzite
+"27° 03' 50.2""","76°26' 10.4""",289,Sd,Quartzite
+"27° 03' 53.2""","76°26' 35.3""",315,Sd,Not exposed
+"27° 03' 25.1""","76°27' 18.7""",349,Gr,Quartzite
+"27° 03' 26.3""","76°28' 22.3""",299,Sd,Not exposed
+"27° 03' 53.0""","76°27' 12.4""",347,"Gr,Sd",Quartzite
+"27° 04' 16.8""","76°28' 13.4""",305,Sd,Not exposed
+"27° 03' 52.7""","76°29' 01.8""",294,"Sd,St",Amphibole bearing quartzite
+"27° 03' 44.8""","76°29' 35.2""",303,Sd,Not exposed
+"27° 04' 21.3""","76°28' 28.6""",300,Sd,Not exposed
+"27° 04' 03.1""","76°29' 15.8""",294,Sd,Not exposed
+"27° 03' 34.9""","76°29' 45.5""",296,Sd,Not exposed
+"27° 03' 49.7""","76°29' 48.9""",317,Sd,Quartz-sericite schist
+"27° 04' 51.3""","76°15' 13.4""",360,"G,Sd.",Not exposed
+"27° 04' 25.5""","76°15' 45.1""",350,Sd,Not exposed
+"27° 05' 17.0""","76°15' 09.5""",354,"Gr,Sd",Ferruginous quartzite
+"27° 05' 15.1""","76°15' 46.1""",362,"G,Sd",Quartzite and Dolomite
+"27° 04' 51.6""","76°16' 13.8""",375,"Gr,Sd",Quartzite and Ferruginous rocks
+"27° 04' 42.3""","76°17' 24.8""",348,Gr,Quartzite
+"27° 04' 57.6""","76°16' 13.8""",370,Gr,Quartzite and Ferruginous rocks
+"27° 05' 23.1""","76°17' 24.3""",349,Gr,Quartzite
+"27° 04' 46.2""","76°17' 57.9""",338,"Gr,Sd",Not exposed
+"27° 04' 39.3""","76°18' 37.4""",328,"Gr,Sd",Not exposed
+"27° 04' 50.3""","76°18' 02.5""",346,"Gr,Sd",Quartzite boulders
+"27° 05' 11.6""","76°18' 38.2""",324,Sd,Not exposed
+"27° 04' 49.0""","76°18' 51.6""",329,Gr,Granite gneiss
+"27° 04' 38.9""","76°19' 22.7""",322,St,Not exposed
+"27° 05' 00.6""","76°18' 47.1""",342,St,Not exposed
+"27° 04' 56.7""","76°19' 35.5""",318,St,Not exposed
+"27° 04' 44.3""","76°20' 13.0""",323,St,Not exposed
+"27° 04' 29.7""","76°20' 41.5""",319,St,Not exposed
+"27° 04' 55.8""","76°19' 57.2""",323,St,Not exposed
+"27° 05' 00.0""","76°20' 44.0""",315,St,Not exposed
+"27° 04' 23.3""","76°21' 31.2""",318,Sd,Not exposed
+"27° 04' 30.9""","76°22' 01.3""",318,Sd,Not exposed
+"27° 05' 26.3""","76°21' 36.7""",305,Sd,Not exposed
+"27° 05' 09.2""","76°22' 03.4""",304,Sd,Not exposed
+"27° 04' 23.6""","76°22' 49.0""",331,Sd,Not exposed
+"27° 04' 38.0""","76°23' 05.5""",326,Sd,Granite/Gneiss in dug well
+"27° 04' 55.1""","76°22' 48.9""",304,Sd,Not exposed
+"27° 05' 05.9""","76°23' 18.3""",304,"Sd,St",Not exposed
+"27° 04' 52.3""","76°23' 34.4""",300,Sd,Not exposed
+"27° 04' 48.2""","76°24' 36.2""",293,Sd,Not exposed
+"27° 05' 23.3""","76°23' 35.4""",308,Sd,Quartzite boulders
+"27° 05' 18.2""","76°24' 14.3""",305,"Sd,St",Not exposed
+"27° 04' 23.7""","76°24' 49.5""",287,Sd,Not exposed
+"27° 04' 50.1""","76°25' 39.3""",312,Sd,Quartzite
+"27° 05' 04.8""","76°24' 50.3""",310,"Sd,St",Not exposed
+"27° 05' 22.0""","76°25' 22.3""",332,"Gr,Sd",Quartzite
+"27° 04' 37.3""","76°25' 58.3""",334,Gr,Quartzite
+"27° 04' 24.5""","76°26' 46.2""",376,"Gr,Sd",Quartzite
+"27° 04' 55.8""","76°26' 02.1""",350,Gr,Quartzite
+"27° 05' 07.2""","76°27' 01.1""",382,Gr,Quartzite
+"27° 04' 50.2""","76°27' 17.1""",352,Gr,Quartzite (Bouldery and ferruginous in character)
+"27° 04' 30.9""","76°28' 15.5""",310,Gr,Quartzite (Bouldery and ferruginous in character)
+"27° 05' 08.7""","76°27' 12.1""",369,Gr,Quartzite Bouldery
+"27° 04' 55.2""","76°28' 18.3""",354,Gr,Quartzite
+"27° 04' 24.7""","76°28' 26.3""",308,Sd,Not exposed
+"27° 04' 27.8""","76°29' 28.0""",292,Sd,Not exposed
+"27° 05' 08.1""","76°28' 45.3""",310,Gr,Quartzite
+"27° 05' 10.0""","76°29' 28.4""",295,Sd,Not exposed
+"27° 04' 32.8""","76°29' 59.0""",308,Sd,Quartzite with quartz veins
+"27° 04' 55.6""","76°29' 59.4""",310,Sd,Not exposed
+"27° 05' 29.4""","76°15' 04.0""",359,Sd,Quartzite/Granite(?)
+"27° 05' 36.0""","76°16' 04.3""",372,"Gr,Sd",Quartzite and impure marble
+"27° 06' 08.5""","76°15' 04.3""",372,Sd,Impure marble
+"27° 06' 05.0""","76°16' 03.8""",382,Sd,Quartzite and impure marble
+"27° 05' 36.4""","76°16' 13.1""",375,"Gr,Sd",Quartzite and impure marble
+"27° 05' 43.6""","76°17' 13.2""",367,"Gr,Sd",Quartzite
+"27° 06' 07.1""","76°16' 13.7""",372,"Gr,Sd",Quartzite and impure marble
+"27° 06' 07.2""","76°17' 05.5""",425,Gr,Quartzite
+"27° 05' 51.4""","76°17' 45.3""",349,"Gr,SD",Quartzite boulders
+"27° 05' 40.1""","76°18' 17.7""",347,Gr,Quartzite exposed in the cell
+"27° 06' 24.0""","76°17' 51.9""",348,Gr,Dolomite-Quartzite contact
+"27° 06' 18.0""","76°18' 07.7""",343,St,Ferruginous quartzite
+"27° 05' 35.6""","76°18' 46.9""",345,St,Gneiss
+"27° 05' 42.3""","76°19' 18.3""",328,St,Not exposed
+"27° 06' 13.1""","76°18' 58.4""",327,St,Not exposed
+"27° 06' 09.7""","76°19' 45.7""",326,St,Not exposed (Granite gneiss)
+"27° 05' 57.0""","76°20' 06.4""",329,"St,Sd",Not exposed
+"27° 05' 55.0""","76°21' 04.0""",321,Sd,Gneissic rocks with quartz and calcite veins
+"27° 06' 03.9""","76°20' 14.3""",320,"St,Sd",Not exposed
+"27° 06' 19.1""","76°20' 49.6""",325,"Sd,Gr",Amphibolite
+"27° 05' 42.6""","76°21' 13.3""",307,"St,Sd",Gneiss
+"27° 05' 48.2""","76°21' 45.5""",297,Sd,Granite
+"27° 06' 07.5""","76°21' 27.0""",308,Sd,Not exposed
+"27° 06' 11.2""","76°21' 43.5""",314,Sd,Not exposed
+"27° 05' 34.8""","76°22' 40.5""",322,Sd,Not exposed
+"27° 05' 40.9""","76°23' 10.8""",306,Sd,Quartzite boulders
+"27° 06' 27.9""","76°22' 24.3""",327,Sd,Not exposed
+"27° 06' 15.9""","76°22' 56.1""",347,"Sd,St",Quartzite boulders
+"27° 05' 30.7""","76°23' 32.6""",314,Sd,Quartzite boulders
+"27° 05' 28.1""","76°24' 10.7""",301,"Sd,St",Quartzite and granite gneiss
+"27° 06' 28.3""","76°23' 38.9""",351,"Gr,Sd",Quartzite boulders
+"27° 06' 27.1""","76°24' 25.7""",313,Gr,Quartzite
+"27° 05' 50.4""","76°25' 06.2""",308,Gr,Quartzite
+"27° 05' 52.8""","76°25' 22.8""",340,Gr,Quartzite
+"27° 06' 21.4""","76°25' 06.5""",339,Gr,Quartzite
+"27° 06' 21.6""","76°25' 22.5""",355,Gr,Quartzite
+"27° 05' 55.3""","76°26' 30.0""",359,"Gr,Sd","Quartzite,Phyllite"
+"27° 05' 48.8""","76°26' 58.5""",348,"Gr,Sd","Quartzite,Phyllite"
+"27° 06' 25.5""","76°26' 30.1""",362,Sd,"Quartzite,Phyllite"
+"27° 06' 20.7""","76°27' 08.1""",354,"Gr,Sd","Quartzite,Phyllite"
+"27° 08' 58.5""","76°27' 45.9""",352,"Gr,Sd","Dolomite,quartzite"
+"27° 05' 58.0""","76°28' 10.9""",353,"Gr,Sd","Dolomite,quartzite"
+"27° 06' 18.9""","76°27' 46.8""",352,"Gr,Sd","Dolomite,quartzite"
+"27° 06' 30.4""","76°28' 11.2""",330,Sd,"Dolomite,quartzite"
+"27° 05' 41.2""","76°29' 00.0""",342,Gr,Quartzite
+"27° 05' 41.3""","76°29' 05.1""",321,Gr,Ferruginous Quartzite
+"27° 06' 06.7""","76°28' 59.2""",404,Gr,Ferruginous Quartzite
+"27° 06' 06.5""","76°29' 26.4""",322,Gr,Ferruginous Quartzite
+"27° 05' 35.2""","76°29' 56.0""",338,"Gr,Sd",Ferruginous Quartzite
+"27° 06' 06.3""","76°29' 51.5""",325,Gr,Ferruginous Quartzite
+"27° 06' 46.2""","76°15' 31.7""",381,"Sd,St",Impure marble and quartzite
+"27° 06' 45.8""","76°15' 55.3""",375,"Gr,Sd",Impure marble and quartzite
+"27° 07' 25.8""","76°15' 34.1""",403,"Gr,Sd","Impure marble and quartzite,Metabasic rocks"
+"27° 07' 11.1""","76°15' 51.5""",374,"Gr,Sd",Not exposed
+"27° 07' 00.2""","76°16' 16.0""",398,Sd,Granite and metabasic
+"27° 06' 45.3""","76°17' 10.2""",450,"Gr,Sd",Granite
+"27° 07' 26.6""","76°16' 05.7""",403,Sd,Granite and metabasic
+"27° 07' 25.2""","76°17' 11.5""",438,Sd,Metabasic rocks
+"27° 06' 33.8""","76°17' 55.4""",347,"Gr.,Sd",Dolomite-quartzite contact
+"27° 06' 39.4""","76°18' 04.9""",349,Gr.,Dolomite
+"27° 07' 28.4""","76°18' 00.0""",354,Sd,Quartzite
+"27° 07' 21.5""","76°18' 21.0""",354,Sd,Quartzite Dolomite with Qtz-Cal vein
+"27° 06' 33.1""","76°18' 57.3""",358,Gr,Quartzite boulders
+"27° 06' 33.5""","76°19' 41.2""",354,Sd,Quartzite boulders
+"27° 07' 12.6""","76°19' 04.9""",363,Sd,Quartzite and Dolomitic marble
+"27° 07' 14.9""","76°19' 30.2""",361,"Gr,Sd",Quartzite and Dolomitic marble
+"27° 06' 49.1""","76°20' 28.7""",330,Sd,Not exposed
+"27° 06' 33.7""","76°20' 43.0""",327,Gr.Sd,Not exposed
+"27° 07' 23.9""","76°20' 12.9""",361,Gr.Sd,"Quartzite,quartz vein and carbonate rocks"
+"27° 07' 06.3""","76°20' 38.2""",339,"Sd,St",Not exposed
+"27° 06' 36.9""","76°21' 06.0""",321,St,Not exposed
+"27° 06' 45.0""","76°21' 59.0""",325,Sd,Marble
+"27° 07' 10.0""","76°21' 14.5""",350,"Gr,Sd",Quartzite and carbonate rocks
+"27° 07' 35.5""","76°21' 50.0""",338,"Gr,",Quartzite and impure Marble
+"27° 06' 47.6""","76°22' 19.0""",342,Sd,Quartzite boulders
+"27° 06' 33.6""","76°22' 56.1""",329,"Sd,St",Quartzite boulders
+"27° 07' 31.3""","76°22' 38.7""",355,"Gr,Sd",Quartzite and impure Marble
+"27° 07' 31.1""","76°22' 57.6""",351,"Gr,",Quartzite
+"27° 06' 58.1""","76°23' 32.1""",325,Sd,Quartzite and marble
+"27° 06' 52.2""","76°24' 27.6""",316,Gr,Quartzite
+"27° 07' 14.8""","76°23' 46.2""",415,Gr,Quartzite
+"27° 00' 07.7""","76°15' 33.6""",310,Gr,Quartzite
+"27° 06' 46.1""","76°25' 00.1""",315,Gr,Quartzite
+"27° 07' 00.0""","76°25' 56.2""",356,Gr,Quartzite
+"27° 07' 37.2""","76°24' 50.3""",331,"Gr,Sd","Ferruginous quartzite,brecciated"
+"27° 07' 13.1""","76°25' 22.9""",404,Gr,"Ferruginous quartzite,brecciated"
+"27° 07' 01.5""","76°26' 25.5""",354,"Gr,Sd",Quartzite
+"27° 07' 01.9""","76°27' 08.3""",352,"Gr,Sd","Quartzite,Phyllite"
+"27° 07' 36.8""","76°26' 30.4""",344,"Gr,Sd",Quartzite
+"27° 07' 10.4""","76°27' 08.0""",352,"Sd,St","Quartzite,Phyllite"
+"27° 07' 04.3""","76°27' 46.3""",358,"Gr,Sd","Quartzite,Dolomite, weathered somewhere"
+"27° 07' 01.5""","76°28' 11.3""",325,"Sd,St",Dolomite
+"27° 07' 06.4""","76°27' 46.4""",347,Sd,Quartzite boulders
+"27° 07' 31.1""","76°28' 10.7""",328,"Sd,St",Dolomite
+"27° 07' 01.8""","76°28' 49.3""",358,"Gr,Sd",Quartzite
+"27° 06' 58.1""","76°29' 03.7""",338,"Gr,Sd",Weathered Quartzite
+"27° 07' 26.3""","76°28' 49.0""",352,Sd,Quartzite
+"27° 07' 36.4""","76°29' 39.4""",326,"Gr,Sd",Quartzite
+"27° 07' 01.2""","76°29' 24.3""",338,Gr,"Weathered Granite,Quartzite"
+"27° 07' 41.3""","76°29' 24.4""",324,Gr,"Weathered Granite,Quartzite"
+"27° 07' 43.6""","76°15' 28.3""",393,Gr,Metabasic rocks
+"27° 07' 42.1""","76°15' 41.5""",394,Sd,Metabasic rocks/Amphibolite
+"27° 08' 26.6""","76°15' 10.8""",387,"Gr,Sd",Quartzite boulders
+"27° 08' 26.5""","76°15' 38.1""",394,Sd,Quartzite boulders
+"27° 07' 40.8""","76°16' 18.7""",410,Sd,Quartzite and Dolomite
+"27° 07' 54.5""","76°17' 04.3""",436,Gr,Quartzite and Dolomite
+"27° 08' 37.2""","76°16' 26.3""",460,"Gr,Sd",Quartzite boulders
+"27° 08' 38.0""","76°16' 59.4""",485,"Gr,Sd",Quartzite
+"27° 08' 06.0""","76°18' 02.1""",355,Gr,Quartzite
+"27° 07' 43.1""","76°18' 21.3""",371,Gr,Quartzite
+"27° 08' 26.6""","76°17' 50.1""",365,Gr,Quartzite
+"27° 08' 33.1""","76°18' 01.1""",366,Gr,Quartzite
+"27° 07' 44.2""","76°19' 08.6""",387,Gr,Quartzite
+"27° 07' 47.6""","76°19' 50.7""",385,"Gr,Sd",Quartzite boulders
+"27° 08' 11.2""","76°19' 15.3""",398,Gr,Quartzite
+"27° 08' 41.9""","76°19' 33.1""",446,"Gr,Sd",Quartzite
+"27° 07' 44.8""","76°20' 28.9""",378,"Gr,Sd",Quartzite and carbonate rocks
+"27° 07' 53.2""","76°20' 47.8""",367,"Gr,Sd",Carbonate rocks(Dolomite)
+"27° 08' 18.6""","76°20' 28.8""",390,Gr,Quartzite and Dolomite rocks
+"27° 08' 17.5""","76°20' 41.0""",375,"Gr,Sd",Quartzite and carbonate rocks
+"27° 07' 54.4""","76°21' 22.7""",362,"Gr,Sd",Carbonate rocks
+"27° 07' 41.9""","76°22' 11.6""",334,Sd,Impure dolomitic marble
+"27° 08' 13.6""","76°21' 19.3""",361,Sd,Dolomite with boulders of quartz veins scattered
+"27° 08' 11.3""","76°21' 42.4""",375,Sd,Dolomite
+"27° 07' 40.8""","76°22' 31.3""",331,Gr,Impure marble
+"27° 07' 45.9""","76°23' 00.9""",361,Gr,Impure marble and quartzite
+"27° 08' 31.6""","76°22' 50.7""",349,Sd,Impure marble
+"27° 08' 32.7""","76°23' 03.6""",357,Gr,Impure marble and quartzite(Mining activity)
+"27° 08' 01.3""","76°24' 06.3""",390,Gr,"Quartzite,Ferruginous quartz vein,impure marble"
+"27° 07' 42.7""","76°24' 17.4""",319,Gr,Quartzite
+"27° 08' 30.1""","76°24' 07.2""",322,Gr,"Quartzite,Ferruginous quartz vein,impure marble"
+"27° 08' 15.4""","76°24' 12.0""",319,Gr,"Quartzite,Ferruginous quartz vein"
+"27° 07' 56.1""","76°24' 45.3""",339,Sd,Quartzite
+"27° 08' 07.1""","76°25' 25.3""",348,Gr,Quartzite
+"27° 08' 37.1""","76°25' 09.1""",339,"Gr,Sd","Quartzite,Quartzite boulders"
+"27° 08' 37.4""","76°25' 23.4""",359,Gr,"Quartzite,Quartzite boulders"
+"27° 07' 40.4""","76°26' 31.1""",347,Sd,Quartzite
+"27° 07' 55.1""","76°27' 09.5""",354,Sd,"Dolomite,Ferruginised"
+"27° 08' 38.7""","76°26' 32.5""",348,Sd,Quartzite
+"27° 08' 11.7""","76°27' 09.0""",351,Sd,"Quartzite,Phyllite"
+"27° 07' 38.0""","76°27' 44.6""",336,Sd,Dolomite
+"27° 07' 39.0""","76°28' 10.8""",324,Sd,Not Exposed
+"27° 08' 11.3""","76°27' 11.5""",358,Sd,"Quartzite,Phyllite"
+"27° 08' 25.2""","76°27' 48.5""",346,St,Phyllite
+"27° 07' 42.5""","76°28' 48.6""",347,Sd,"Granite,quartzite"
+"27° 08' 07.2""","76°29' 24.9""",320,Gr,Quartzite
+"27° 08' 15.3""","76°28' 25.4""",351,St,Phyllite
+"27° 08' 15.1""","76°29' 11.3""",347,St,Phyllite
+"27° 07' 49.6""","76°29' 54.7""",315,Sd,"Phyllite,Quartzite"
+"27° 08' 15.0""","76°29' 56.3""",337,St,Phyllite
+"27° 09' 00.9""","76°15' 06.3""",404,Sd,"Granite,Metabasic and Amphibolite"
+"27° 08' 55.2""","76°15' 45.0""",424,Gr,Pebbly quartzite
+"27° 09' 22.1""","76°15' 30.4""",450,"Gr,Sd",Quartzite boulders
+"27° 09' 40.1""","76°15' 47.2""",455,"Gr,Sd",Quartzite boulders
+"27° 08' 55.2""","76°16' 16.0""",430,Gr,Quartzite
+"27° 08' 44.0""","76°16' 59.0""",475,Gr,Quartzite
+"27° 09' 17.0""","76°16' 13.5""",428,"Gr,Sd",Quartzite
+"27° 09' 17.1""","76°16' 54.5""",478,"Gr,Sd",Quartzite
+"27° 09' 03.1""","76°17' 49.0""",379,Gr,Quartzite
+"27° 08' 59.8""","76°18' 06.5""",399,Gr,Micaceous quartzite
+"27° 09' 46.9""","76°17' 45.5""",375,"Gr,Sd",Quartzite
+"27° 09' 21.6""","76°18' 03.9""",400,"Gr,Sd",Micaceous quartzite/schist
+"27° 09' 13.2""","76°19' 15.1""",432,"Gr,Sd",Quartzite
+"27° 09' 15.2""","76°19' 17.9""",426,"Gr,Sd",Quartzite and brecciated quartzite
+"27° 09' 47.7""","76°18' 47.4""",407,"Gr,Sd",Quartzite and brecciated quartzite
+"27° 09' 26.7""","76°19' 24.0""",439,"Gr,Sd",Quartzite and brecciated quartzite
+"27° 08' 58.1""","76°19' 53.1""",450,"Gr,Sd",Quartzite and brecciated quartzite
+"27° 09' 02.1""","76°21' 03.1""",405,Gr,"Quartzite,Phyllite"
+"27° 09' 40.1""","76°19' 53.2""",452,"Gr,Sd",Quartzite
+"27° 09' 43.2""","76°20' 39.3""",360,Gr,Quartzite
+"27° 08' 47.8""","76°21' 18.6""",376,"Gr,Sd","Quartzite,impure marble"
+"27° 08' 50.2""","76°21' 52.1""",365,Sd,Impure Marble and quartzite
+"27° 09' 35.3""","76°21' 16.6""",352,"Gr,Sd",Quartzite
+"27° 09' 40.1""","76°22' 17.3""",372,"Sd,St",Impure Marble
+"27° 08' 48.3""","76°22' 52.0""",343,Gr,Impure Marble
+"27° 08' 52.2""","76°22' 56.7""",352,Gr,Impure Marble and quartzite
+"27° 09' 24.5""","76°22' 39.1""",376,"Gr,Sd",Impure Marble
+"27° 09' 44.1""","76°23' 24.7""",382,Sd,Impure Marble
+"27° 08' 49.5""","76°24' 01.5""",315,Gr,"Quartzite,quartz vein and impure marble"
+"27° 09' 15.3""","76°24' 38.8""",318,"Sd,St",Not exposed
+"27° 09' 37.0""","76°23' 46.1""",334,Gr,Dolomite
+"27° 09' 37.9""","76°24' 19.3""",311,Sd,Quartzite
+"27° 09' 05.3""","76°25' 07.7""",337,Sd,Quartzite boulders
+"27° 09' 06.4""","76°25' 26.1""",352,"Gr,Sd",Quartzite boulders
+"27° 09' 40.3""","76°24' 45.3""",312,Sd,Not exposed
+"27° 09' 45.3""","76°25' 26.3""",348,"Gr,Sd",Quartzite boulders
+"27° 09' 06.7""","76°26' 01.1""",405,Gr,Quartzite
+"27° 08' 58.4""","76°27' 08.5""",343,St,Phyllite
+"27° 09' 28.2""","76°26' 03.5""",353,"Gr,Sd",Phyllite(Carbonaceous?)
+"27° 09' 16.4""","76°27' 09.5""",352,"Gr,Sd",Phyllite(Carbonaceous?)
+"27° 09' 01.3""","76°27' 11.3""",338,St,Phyllite
+"27° 08' 44.5""","76°27' 56.6""",347,"Sd,St",Phyllite
+"27° 09' 20.7""","76°27' 44.7""",356,Sd,Ferruginous quartzite/Phyllite
+"27° 09' 47.1""","76°28' 15.4""",350,"Gr,Sd",Ferruginous quartzite/Phyllite
+"27° 09' 01.7""","76°28' 26.5""",351,"Gr,Sd",Phyllite
+"27° 09' 02.0""","76°29' 03.4""",339,Sd,Phyllite
+"27° 09' 16.8""","76°28' 24.0""",330,"Gr,Sd",Quartzite
+"27° 09' 16.7""","76°29' 20.7""",343,"Gr,Sd",Quartzite
+"27° 08' 45.5""","76°29' 43.8""",356,"Gr,St",Ferruginous Phyllite
+"27° 09' 17.1""","76°29' 41.4""",356,Gr,"Quartzite,Phyllite"
+"27° 09' 50.3""","76°15' 15.0""",431,"Gr,Sd",Quartzite boulders
+"27° 09' 49.2""","76°15' 45.3""",429,Gr,Quartzite boulders
+"27° 10' 36.2""","76°15' 18.2""",435,"Gr,Sd",Quartzite
+"27° 10' 29.0""","76°15' 52.2""",449,"Sd,St",Quartzite
+"27° 10' 20.5""","76°16' 14.7""",454,"Gr,Sd",Quartzite boulders
+"27° 10' 20.9""","76°16' 52.8""",441,Sd,Quartzite
+"27° 10' 37.5""","76°16' 14.1""",444,Sd,Quartzite
+"27° 10' 54.7""","76°17' 16.5""",413,Sd,Quartzite
+"27° 10' 05.0""","76°17' 55.2""",384,"Gr,Sd",Quartzite
+"27° 09' 59.7""","76°18' 04.2""",409,"Gr,Sd",Micaceous quartzite/schist
+"27° 10' 29.3""","76°17' 43.4""",382,"Gr,Sd",Quartzite
+"27° 10' 23.7""","76°18' 16.0""",374,"Gr,Sd",Quartzite and brecciated quartzite
+"27° 09' 59.6""","76°18' 40.3""",411,"Gr,Sd",Quartzite and brecciated quartzite
+"27° 10' 20.9""","76°19' 28.1""",449,"Gr,Sd","Quartzite,Carbonate rocks at foothill."
+"27° 10' 40.8""","76°19' 00.7""",434,Sd,"Fine grained,brown-yellow coloured (gossan)"
+"27° 10' 45.5""","76°19' 17.1""",425,"Gr,Sd","Dolomitic marble,Phyllite and quartzite"
+"27° 09' 58.1""","76°19' 47.5""",453,"Gr,Sd",Quartzite
+"27° 09' 53.2""","76°20' 42.7""",365,Gr,Quartzite
+"27° 10' 53.6""","76°19' 54.2""",440,"Gr,Sd",Quartzite and Dolomitic Marble
+"27° 10' 46.6""","76°20' 51.6""",368,Gr,Gritty quartzite
+"27° 10' 18.2""","76°21' 34.1""",358,Gr,Quartzite and Metabasic rocks
+"27° 10' 18.1""","76°21' 42.8""",355,Gr,"Quartzite,schist and Quartz veins"
+"27° 10' 45.8""","76°21' 12.3""",352,Gr,Gritty quartzite
+"27° 10' 47.1""","76°21' 54.3""",364,Gr,"Quartzite,and Quartz veins"
+"27° 09' 50.3""","76°22' 31.8""",386,Sd,Impure Marble
+"27° 10' 00.4""","76°23' 12.0""",326,Gr,Dolomite and quartzite
+"27° 10' 41.7""","76°22' 25.6""",398,Gr,Quartzite
+"27° 10' 36.1""","76°22' 56.5""",330,Sd,Quartzite
+"27° 09' 51.4""","76°23' 31.5""",335,"Gr,Sd",Dolomite and impure marble
+"27° 10' 20.3""","76°24' 42.1""",326,"Gr,Sd",Quartzite and quartz veins
+"27° 10' 35.8""","76°23' 34.3""",320,Sd,Quartzite
+"27° 10' 29.0""","76°24' 40.3""",320,"Gr,Sd",Quartzite
+"27° 10' 20.4""","76°25' 18.5""",335,Gr,Quartzite and Dolomite
+"27° 10' 20.1""","76°25' 21.0""",340,Gr,Quartzite
+"27° 10' 29.2""","76°25' 11.1""",325,Sd,Not exposed
+"27° 10' 47.6""","76°25' 51.8""",330,"Gr,Sd",Quartzite boulders
+"27° 09' 50.1""","76°26' 06.2""",360,Gr,"Phyllite,Quartzite"
+"27° 09' 50.5""","76°27' 00.3""",356,Gr,"Phyllite,Quartzite"
+"27° 10' 47.5""","76°25' 58.5""",345,"Gr,Sd",Quartzite boulders
+"27° 10' 31.8""","76°27' 08.8""",362,Gr,"Phyllite,Quartzite"
+"27° 09' 57.2""","76°27' 10.3""",337,Sd,Not exposed
+"27° 10' 09.5""","76°28' 22.9""",330,Sd,Not exposed
+"27° 10' 31.1""","76°27' 45.2""",342,Gr,"Phyllite,Quartzite"
+"27° 10' 30.4""","76°28' 20.6""",340,Sd,Phyllite(well dump exposed)
+"27° 10' 19.5""","76°28' 56.1""",315,Gr,Phyllite
+"27° 10' 10.6""","76°28' 53.5""",311,Sd,Not exposed
+"27° 10' 47.1""","76°28' 46.1""",318,Gr,Phyllite
+"27° 10' 22.0""","76°29' 24.5""",322,Gr,Phyllite
+"27° 10' 09.0""","76°29' 43.4""",320,"Gr,Sd","Phyllite,"
+"27° 10' 29.7""","76°29' 06.4""",310,Sd,"Phyllite,"
+"27° 10' 13.5""","76°15' 01.1""",405,Gr,Quartzite
+"27° 11' 22.2""","76°16' 09.0""",471,Sd,Quartzite
+"27° 11' 40.2""","76°15' 30.8""",452,Gr,Quartzite
+"27° 12' 09.8""","76°15' 53.1""",469,"Gr,Sd",Quartzite
+"27° 11' 02.3""","76°16' 36.1""",469,Sd,Quartzite
+"27° 10' 55.1""","76°16' 51.7""",465,Sd,Quartzite
+"27° 11' 31.8""","76°16' 17.1""",492,"Gr,St",Quartzite
+"27° 11' 54.8""","76°17' 15.3""",414,Sd,Quartzite
+"27° 11' 22.8""","76°17' 45.3""",393,Sd,Phyllite
+"27° 11' 22.4""","76°18' 09.7""",388,Sd,Phyllite(Kaolinised)
+"27° 11' 49.1""","76°17' 26.9""",385,"Sd,St",Phyllite
+"27° 11' 40.0""","76°18' 12.2""",392,"Gr,Sd",Ferruginous phyllite
+"27° 11' 03.0""","76°19' 08.7""",410,Sd,Dolomitic marble and ferruginous phyllite
+"27° 11' 11.7""","76°19' 17.6""",430,Gr,Dolomitic marble and ferruginous phyllite
+"27° 11' 37.0""","76°18' 46.0""",411,"Gr,Sd",Dolomitic marble
+"27° 11' 36.1""","76°19' 18.1""",420,"Gr,Sd",Dolomitic marble and quartzite
+"27° 10' 08.2""","76°20' 28.7""",392,Gr,Gritty quartzite
+"27° 10' 13.1""","76°20' 35.3""",385,Gr,Gritty quartzite
+"27° 11' 45.3""","76°20' 27.9""",386,Gr,Quartzite
+"27° 11' 45.8""","76°20' 47.1""",388,Gr,Quartzite
+"27° 11' 02.5""","76°21' 23.1""",350,Gr,Gritty quartzite
+"27° 11' 24.3""","76°22' 04.9""",332,Sd,Impure Marble and quartzite
+"27° 11' 36.3""","76°21' 40.2""",368,Sd,Quartzite
+"27° 11' 34.1""","76°21' 52.1""",338,Sd,Marble
+"27° 11' 19.8""","76°22' 34.2""",328,Gr,Impure Marble
+"27° 11' 16.4""","76°23' 24.9""",335,Gr,Marble and quartzite
+"27° 11' 58.6""","76°22' 25.5""",348,Sd,Not exposed
+"27° 11' 30.3""","76°23' 10.1""",341,"Gr,Sd",Marble
+"27° 11' 15.8""","76°23' 32.1""",327,Sd,"Dolomite,Marble"
+"27° 11' 13.7""","76°24' 10.3""",310,Sd,"Dolomite,Marble"
+"27° 11' 27.3""","76°23' 43.9""",317,Sd,"Dolomite,Marble"
+"27° 11' 27.2""","76°24' 09.0""",322,Sd,"Dolomite,Marble"
+"27° 11' 25.2""","76°24' 46.1""",322,Sd,Ferriuginous quartzite
+"27° 11' 20.8""","76°25' 22.0""",324,Sd,Not exposed
+"27° 11' 30.6""","76°24' 46.2""",325,Sd,Ferriuginous quartzite
+"27° 11' 41.5""","76°25' 32.9""",331,Sd,Not exposed
+"27° 10' 55.8""","76°26' 05.5""",346,"Gr,Sd",Quartzite
+"27° 10' 55.8""","76°26' 38.2""",359,Gr,Quartzite boulders
+"27° 11' 37.5""","76°26' 02.1""",338,Sd,Not exposed
+"27° 11' 38.0""","76°26' 36.7""",349,Sd,Not exposed
+"27° 11' 25.2""","76°27' 15.3""",368,Gr,"Quartzite,Dolomite very few patches"
+"27° 10' 58.1""","76°28' 05.1""",349,"Gr,Sd","Quartzite,Dolomite very few patches"
+"27°11' 50.5""","76°27' 10.9""",362,Gr,Quartzite
+"27° 11' 44.2""","76°28' 26.3""",360,"Gr,Sd","Phyllite,Dolomite"
+"27° 10' 55.7""","76°28' 34.9""",335,Sd,Phyllite(well Dump)
+"27° 10' 56.0""","76°29' 05.0""",349,Sd,Phyllite
+"27° 11' 30.5""","76°28' 44.0""",344,Gr,Phyllite
+"27° 11' 28.2""","76°29' 03.1""",380,Gr,Dolomite
+"27° 10' 56.3""","76°29' 41.3""",370,"Gr,Sd",Phyllite
+"27° 11' 28.4""","76°29' 42.0""",369,Gr,Dolomite
+"27° 12' 03.1""","76°15' 05.3""",455,Gr,Quartzite
+"27° 12' 29.4""","76°15' 42.2""",466,"Gr,Sd",Impure marble and quartzite
+"27° 12' 45.5""","76°15' 29.0""",450,"Sd,St","Quartzite,Dolomite"
+"27° 12' 46.8""","76°15' 40.7""",448,Gr,"Quartzite,impure Dolomite"
+"27° 12' 24.9""","76°16' 49.8""",420,Sd,"Brecciated quartzite,Phyllite,Metabasic"
+"27° 12' 04.1""","76°16' 52.8""",423,Sd,Quartzite
+"27° 12' 48.3""","76°16' 25.2""",420,Sd,Quartzite and Brecciated quartzite
+"27° 12' 52.4""","76°16' 52.4""",419,Sd,Phyllite
+"27° 12' 17.0""","76°17' 27.0""",408,Gr,Quartzite and Phyllite
+"27° 12' 01.1""","76°18' 08.5""",399,"Gr,Sd",Phyllite
+"27° 13' 00.3""","76°17' 34.3""",410,"Sd,St",Not exposed
+"27° 12' 39.2""","76°18' 20.0""",390,"Gr,Sd",Phyllite
+"27° 12' 05.3""","76°18' 41.2""",401,Sd,Quartzite boulders
+"27° 12' 06.1""","76°19' 18.5""",406,Sd,"Quartzite boulders,Impure Marble"
+"27° 12' 42.6""","76°18' 46.1""",410,Gr,"Quartzite,Impure Marble(Gossanised body)"
+"27° 12' 34.1""","76°19' 18.2""",407,Gr,"Quartzite,Impure Marble"
+"27° 12' 18.1""","76°20' 28.1""",395,Gr,Quartzite
+"27° 12' 19.1""","76°20' 40.1""",392,Gr,Quartzite
+"27° 13' 02.1""","76°20' 25.0""",435,Gr,Quartzite
+"27° 13' 02.1""","76°20' 36.1""",436,Gr,Quartzite
+"27° 12' 22.3""","76°21' 20.1""",372,Sd,Quartzite
+"27° 12' 09.8""","76°21' 56.4""",338,Gr,"Dolomite,Tremolite"
+"27° 12' 34.6""","76°21' 26.2""",375,Gr,Quartzite
+"27° 12' 33.1""","76°21' 48.0""",343,"Gr,Sd","Dolomite,Tremolite"
+"27° 12' 03.3""","76°22' 27.4""",341,Gr,"Dolomite,Tremolite"
+"27° 12' 03.3""","76°23' 28.5""",337,Gr,"Marble,Dolomite"
+"27° 13' 02.7""","76°22' 49.7""",350,Gr,"Marble,Dolomite"
+"27° 13' 02.9""","76°23' 24.7""",345,"Gr,Sd","Marble,Dolomite"
+"27° 12' 30.1""","76°23' 49.4""",332,"Gr,Sd","Quartzite,Marble"
+"27° 12' 06.9""","76°24' 24.5""",333,Sd,Not exposed
+"27° 12' 39.5""","76°23' 37.3""",345,"Gr,Sd",Quartzite boulders
+"27° 12' 38.4""","76°24' 26.6""",329,Sd,Marble
+"27° 12' 04.6""","76°24' 45.3""",336,Sd,Not exposed
+"27° 12' 26.7""","76°25' 22.3""",341,Sd,Not exposed
+"27° 12' 37.4""","76°24' 45.3""",332,Sd,Marble
+"27° 12' 50.3""","76°25' 44.3""",329,Sd,Not exposed
+"27° 12' 02.7""","76°25' 59.7""",338,Sd,"Dolomite,quartzite"
+"27° 12' 01.1""","76°26' 36.4""",341,Sd,"Dolomite,Marble"
+"27° 12' 34.3""","76°26' 09.3""",335,"Gr,Sd","Dolomite,Marble"
+"27° 12' 34.0""","76°26' 52.1""",339,"Gr,Sd","Dolomite,Marble"
+"27° 12' 10.5""","76°27' 37.3""",355,"Gr,St",Quartzite
+"27° 12' 24.6""","76°27' 49.1""",361,Gr,Ferruginous phyllite
+"27°13' 01.1""","76°27' 31.4""",358,St,Quartzite
+"27° 12' 58.0""","76°27' 58.6""",368,"Gr,Sd",Quartzite
+"27° 12' 03.6""","76°28' 54.8""",351,Gr,Ferruginous phyllite
+"27° 12' 08.0""","76°29' 04.3""",349,Gr,Phyllite Quartzite contact with quartz veins
+"27° 12' 33.5""","76°28' 40.3""",373,Gr,Quartzite
+"27° 12' 41.6""","76°29' 30.8""",380,"Gr,Sd",Quartzite boulders
+"27° 12' 23.5""","76°29' 42.0""",359,Sd,Phyllite Quartzite
+"27° 12' 51.7""","76°29' 50.1""",375,"Gr,Sd",Quartzite
+"27° 13' 11.6""","76°15' 24.8""",429,Sd,Quartzite
+"27° 13' 17.4""","76°16' 07.5""",419,Sd,Quartzite
+"27° 13' 42.1""","76°15' 36.0""",425,"Gr,Sd","Quartzite,Sericite schist"
+"27° 13' 44.2""","76°16' 12.5""",424,"Gr,Sd","Phyllite(Carb?) ,Gravelly"
+"27° 13' 33.1""","76°16' 24.9""",418,"Sd,St","Quartzite,Phyllite"
+"27° 13' 40.2""","76°16' 16.1""",425,Sd,"Quartzite,Phyllite"
+"27° 14' 02.3""","76°16' 32.7""",411,"Sd,St",Phyllite(Carb?) in Nala
+"27° 13' 44.2""","76°17' 23.2""",399,"Sd,St",Quartzite
+"27° 13' 12.1""","76°18' 02.9""",393,"Sd,St","Quartzite,Phyllite"
+"27° 13' 09.3""","76°18' 19.0""",397,Gr,Phyllite
+"27° 13' 41.9""","76°17' 29.2""",404,"Sd,St","Quartzite,Phyllite"
+"27° 13' 43.6""","76°18' 16.9""",409,"Sd,St",Impure Marble
+"27° 13' 14.6""","76°18' 41.0""",416,"Gr,Sd",Quartzite and impure Marble
+"27° 13' 12.9""","76°19' 18.5""",422,Gr,Quartzite and impure Marble
+"27° 13' 56.0""","76°18' 41.2""",412,Sd,Quartzite
+"27° 13' 41.5""","76°19' 51.2""",408,Gr,Quartzite
+"27° 13' 28.1""","76°20' 25.1""",434,Gr,Quartzite
+"27° 13' 28.2""","76°20' 32.4""",430,Gr,Quartzite
+"27° 13' 44.8""","76°20' 02.5""",410,Gr,Quartzite
+"27° 13' 53.6""","76°20' 38.1""",488,Gr,Quartzite
+"27° 13' 35.3""","76°21' 19.9""",489,Gr,Quartzite
+"27° 13' 20.3""","76°22' 01.3""",362,"Gr,Sd","Marble,Dolomite"
+"27° 13' 55.1""","76°21' 14.2""",501,Gr,Quartzite
+"27° 14' 09.7""","76°21' 58.8""",351,"Gr,St",Marble(Arenaceous)
+"27° 13' 21.5""","76°22' 50.4""",348,Sd,"Marble,Dolomite"
+"27° 13' 33.5""","76°23' 30.5""",352,Sd,"Marble,Dolomite"
+"27° 13' 44.4""","76°22' 30.5""",356,"Gr,Sd",Marble(Arenaceous)
+"27° 13' 37.7""","76°23' 30.1""",362,"Gr,Sd","Quartzite,metabasic rocks"
+"27° 13' 04.9""","76°24' 06.5""",339,"Sd,Gr","Marble,quartzite"
+"27° 13' 13.8""","76°24' 18.5""",344,"Sd,Gr","Marble,quartzite"
+"27° 14' 09.0""","76°24' 04.6""",338,Sd,Quartzite(?) Not exposed
+"27° 13' 44.4""","76°24' 13.8""",355,"Gr,Sd",Quartzite
+"27° 13' 05.3""","76°24' 45.4""",341,Gr,"Marble,Dolomite"
+"27° 13' 35.8""","76°25' 39.4""",338,Sd,Phyllite
+"27° 13' 45.3""","76°24' 49.3""",338,"Gr,Sd",Quartzite
+"27° 13' 54.7""","76°26' 15.8""",352,Gr,Quartzite and metabasics
+"27° 13' 32.3""","76°26' 11.2""",355,"Sd,St",Phyllite patches
+"27° 13' 26.9""","76°27' 04.6""",355,"Sd,St",Granite
+"27° 13' 38.1""","76°26' 17.5""",349,"Sd,St",Phyllite patches
+"27° 13' 38.7""","76°26' 47.9""",355,Sd,Ferruginous Phyllite
+"27° 13' 25.1""","76°27' 28.4""",356,Sd,Gneissic rocks
+"27° 13' 07.5""","76°27' 58.3""",375,Sd,Quartzite
+"27° 13' 39.9""","76°27' 35.7""",354,"Sd,St",Ferruginous Phyllite
+"27° 13' 52.6""","76°28' 13.0""",352,Sd,"Schist,Phyllite"
+"27° 13' 25.4""","76°28' 27.5""",375,Sd,Not exposed
+"27° 13' 06.2""","76°29' 05.7""",381,Gr,Quartzite
+"27° 13' 39.1""","76°28' 41.6""",370,Sd,"Quartzite,Granite as a base."
+"27° 13' 48.9""","76°29' 04.8""",376,Gr,"Quartzite,Phyllite"
+"27° 13' 28.8""","76°29' 55.0""",382,Gr,Quartzite
+"27° 13' 55.8""","76°29' 42.0""",380,"Gr,Sd","Quartzite,Phyllite"
+"27° 14' 10.2""","76°15' 16.5""",477,"Gr,Sd",Quartzite
+"27° 14' 42.3""","76°16' 11.2""",415,"Gr,St","Phyllite (Carb?),Quartzite"
+"27° 14' 45.2""","76°15' 07.1""",482,"Gr,Sd","Quartzite,schist"
+"27° 14' 58.6""","76°16' 10.5""",424,"Sd,St",Quartzite
+"27° 14' 22.8""","76°16' 47.3""",407,"Sd,","Phyllite (Carb?),Quartzite"
+"27° 14' 26.6""","76°17' 05.9""",408,"Sd,St",Not exposed
+"27° 14' 58.5""","76°16' 41.1""",409,"Sd,St",Quartzite
+"27° 14' 58.5""","76°17' 05.8""",404,"Sd,St",Not Exposed
+"27° 14' 10.7""","76°17' 44.8""",404,"Sd,St",Not exposed (Masonary Dam)
+"27° 14' 37.3""","76°18' 04.5""",405,"Gr,Sd",Quartzite
+"27° 14' 56.8""","76°17' 56.3""",415,Sd,Quartzite(?)
+"27° 14' 54.6""","76°18' 07.9""",417,"Gr,Sd",Impure marble
+"27° 14' 12.2""","76°18' 57.1""",432,"Gr,Sd",Impure marble and quartzite
+"27° 14' 13.0""","76°19' 17.4""",432,"Gr,Sd",Quartzite
+"27° 14' 56.1""","76°18' 40.1""",430,"Gr,Sd",Quartzite
+"27° 14' 54.0""","76°19' 51.2""",440,"Gr,Sd",Quartzite
+"27° 14' 23.1""","76°20' 02.3""",435,"Gr,Sd",Quartzite
+"27° 14' 12.7""","76°20' 38.2""",501,Gr,Quartzite
+"27° 14' 48.1""","76°20' 03.3""",505,"Gr,Sd",Quartzite
+"27° 14' 51.1""","76°20' 38.3""",503,"Gr,Sd",Quartzite and schist
+"27° 14' 26.2""","76°21' 18.0""",501,Sd,Quartzite and schist
+"27° 14' 41.8""","76°22' 06.3""",400,Gr,Quartzite
+"27° 14' 52.3""","76°21' 10.8""",506,Gr,Quartzite
+"27° 14' 53.1""","76°21' 43.3""",502,Gr,Quartzite
+"27° 14' 23.6""","76°22' 30.4""",372,Gr,Quartzite and metadolerite/amphibolite
+"27° 14' 18.6""","76°23' 21.7""",362,Gr,Metabasics(Dolerite)
+"27° 14' 43.2""","76°22' 45.7""",367,Gr,Quartzite and metabasics
+"27° 14' 50.2""","76°23' 18.2""",361,C,Metabasics
+"27° 14' 23.2""","76°23' 54.9""",350,Sd,Not exposed
+"27° 14' 26.2""","76°24' 08.5""",362,Gr,Quartzite
+"27° 14' 43.5""","76°23' 55.4""",350,St,Not exposed
+"27° 14' 43.1""","76°24' 08.1""",353,Gr,Quartzite
+"27° 14' 15.9""","76°24' 55.7""",342,"Sd,St",Quartzite and Metabasics
+"27° 14' 14.8""","76°25' 39.4""",355,Gr,Quartzite and Metabasics
+"27° 14' 58.3""","76°24' 48.7""",342,Sd,Not exposed
+"27° 14' 45.0""","76°25' 34.6""",357,"Gr,Sd",Ferruginous Phyllite
+"27° 14' 42.7""","76°26' 09.2""",353,"Sd,St",Gneissic rocks in little area(?)
+"27° 14' 22.0""","76°26' 34.5""",348,"Sd,St",Not exposed
+"27° 14' 48.4""","76°26' 02.3""",362,Gr,Quartzite
+"27° 14' 44.2""","76°26' 36.8""",351,"Sd,St",Gneissic rocks
+"27° 14' 18.2""","76°27' 11.6""",368,Sd,Granite
+"27° 14' 11.4""","76°27' 57.3""",380,"Sd,St",Granite
+"27° 14' 47.0""","76°27' 11.1""",388,Gr,weathered Granite
+"27° 14' 52.4""","76°27' 51.8""",383,"Gr,Sd",Granite
+"27° 14' 12.3""","76°28' 50.6""",385,Sd,"Quartzite,Phyllite"
+"27° 14' 12.1""","76°29' 05.5""",386,Gr,"Quartzite,Phyllite,Granite very few."
+"27° 14' 44.8""","76°28' 46.0""",380,"Gr,Sd","Quartzite,Phyllite"
+"27° 14' 46.9""","76°29' 03.3""",384,Gr,"Quartzite,Phyllite with Granite body"
+"27° 14' 12.6""","76°29' 50.0""",381,Gr,"Quartzite,Phyllite,Granite very few."
